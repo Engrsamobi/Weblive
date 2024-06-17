@@ -1,0 +1,7 @@
+FLEX CONTAINER PROPERTY 
+    - Flex direction - it determines the direction of flex.
+    - Flex wrap - determines whether the flex will be on a single or multiple line
+    - Flex flow - combination of flex direction and flex wrap.
+    - Justify content - distribute spaces between columns and used to align items.
+    - Align - items   - distribute spaces between rows 
+    - Align - content - to align flex lines.
